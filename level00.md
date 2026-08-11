@@ -19,7 +19,7 @@ ssh -p 2220 bandit[your level no]@bandit.labs.overthewire.org
 *remove the [] symbol and replace the no of the level..
 
 voila...you are connected..
-![Reference Image](./level00-1.jpg)
+![Reference Image](./level00-1.png)
 
 now it asks for a password which is mentioned by bandit as 'bandit0'
 
