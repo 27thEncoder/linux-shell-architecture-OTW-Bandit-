@@ -25,3 +25,5 @@ This repository is organized by levels. You can click on any entry below to see 
 
 ## Cybersecurity Ethics Statement
 In alignment with ethical practices and the rules of the OverTheWire community, this journal does not contain any active password strings or solution keys. Every walkthrough replaces final credentials with a [REDACTED] placeholder. The sole focus here is documenting the command line logic, error handling, and problem-solving steps required to clear each level.
+
+                       - MADHAN.M
