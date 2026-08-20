@@ -14,7 +14,7 @@ The purpose of this logbook is to track my learning from level 25 to the end pro
 
 ## Log Index
 
-This repository is from level 25 to level 34. You can click on any entry below to see the specific technical steps, commands used, and system takeaways for that challenge.
+This repository is from level 25 to level 34 as these are the most basic yet demanding skills needed for a career in CYBER SECURITY. You can click on any entry below to see the specific technical steps, commands used, and system takeaways for that challenge.
 
 ## Level Notes Index
 
