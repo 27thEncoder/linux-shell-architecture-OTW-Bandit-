@@ -1,20 +1,20 @@
 
 # Linux Shell Architecture and Proficiency Journal
 
-This repository serves as a technical journal documenting the system mechanics, file operations, and basic security methodologies explored through the OverTheWire Bandit challenges. 
+This repository serves as a technical journal documenting the system mechanics, file operations,most demanding linux proficiency and security methodologies explored through the OverTheWire Bandit Lab challenges. 
 
 All final password flags have been removed or replaced with placeholders in compliance with platform guidelines to preserve game integrity.
 
 ---
 
 ## Objective
-The purpose of this logbook is to track my learning progress in Linux system administration and command-line mechanics. Documenting these steps helps solidify my understanding of operating system logic, secure scripting, and basic troubleshooting, which are essential foundations for my long-term CYBERSECURITY goals.
+The purpose of this logbook is to track my learning from level 25 to the end progress in Linux system administration and command-line mechanics. Documenting these steps helps solidify my understanding of operating system logic, secure scripting, and basic troubleshooting, which are essential foundations for my long-term CYBERSECURITY goals.
 
 ---
 
 ## Log Index
 
-This repository is organized by levels. You can click on any entry below to see the specific technical steps, commands used, and system takeaways for that challenge.
+This repository is from level 25 to level 34. You can click on any entry below to see the specific technical steps, commands used, and system takeaways for that challenge.
 
 ## Level Notes Index
 
