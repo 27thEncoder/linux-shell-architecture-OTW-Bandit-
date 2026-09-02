@@ -18,9 +18,19 @@ This repository is from level 25 to level 34 as these are the most basic yet dem
 
 ## Level Notes Index
 
-* [Level 0 to Level 1](./level00.md) -- Connecting via SSH and checking file permissions.
-* [Level 1 to Level 2](./level01.md) -- Learning how to read a file that is named with a single dash (-).
-* [Level 2 to Level 3](./level02.md) -- Bypassing spaces in a filename using quotes and escape characters.
+* [Level 0 to Level 1](./level00.md)
+* [Level 1 to Level 2](./level01.md)
+* [Level 2 to Level 3](./level02.md)
+* [Level 24 to Level 25](./level24.md)
+* [Level 25 to Level 26](./level24.md)
+* [Level 26 to Level 27](./level24.md)
+* [Level 27 to Level 28](./level24.md)
+* [Level 28 to Level 29](./level24.md)
+* [Level 29 to Level 30](./level24.md)
+* [Level 30 to Level 31](./level24.md)
+* [Level 31 to Level 32](./level24.md)
+* [Level 32 to Level 33](./level24.md)
+* [Level 33 to Level 34](./level24.md) --COMING!!!!! 
 ---
 
 ## Cybersecurity Ethics Statement
