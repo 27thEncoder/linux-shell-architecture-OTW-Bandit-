@@ -5,6 +5,8 @@ This repository serves as a technical journal documenting the system mechanics, 
 
 All final password flags have been removed or replaced with placeholders in compliance with platform guidelines to preserve game integrity.
 
+                NOTHING HERE IS AI GENERATED...Its my Hand typed Documentary!!! 
+
 ---
 
 ## Objective
@@ -34,6 +36,6 @@ This repository is from level 25 to level 34 as these are the most basic yet dem
 ---
 
 ## Cybersecurity Ethics Statement
-In alignment with ethical practices and the rules of the OverTheWire community, this journal does not contain any active password strings or solution keys. Every walkthrough replaces final credentials with a [REDACTED] placeholder. The sole focus here is documenting the command line logic, error handling, and problem-solving steps required to clear each level.
+In alignment with ethical practices and the rules of the OverTheWire community, this journal does not contain any active password strings or solution keys. Every walkthrough replaces final passwords. The sole focus here is documenting the command line logic, error handling, and problem-solving steps required to clear each level.
 
                        - MADHAN.M
