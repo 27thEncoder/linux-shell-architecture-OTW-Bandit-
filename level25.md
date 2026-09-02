@@ -1,0 +1,1 @@
+Just a level 26 Helper...Just cat the sshkey file, copy the contents including the open and end parameteres, exit, save it in a txt file and give it chmod 400 restriction s for read access only and connect to bandit 26
